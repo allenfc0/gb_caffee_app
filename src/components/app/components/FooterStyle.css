@@ -1,0 +1,48 @@
+
+#info-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+#about-company {
+    display: flex;
+    flex-direction: column;
+    padding: 70px;
+}
+
+#about-company h5 {
+  color: #fff;
+}
+
+#about-company-links {
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(162, 158, 158, 0.641);
+  
+}
+
+#about-company-links .iLink{
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+}
+
+#follow {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+  }
+  
+  #follow h5 {
+    color: #fff;
+    margin-bottom: 20px;
+  }
+
+  #follow .media-icons a i:hover {
+    transform: scale(1.3);
+    
+  }

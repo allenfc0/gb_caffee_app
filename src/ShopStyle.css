@@ -1,0 +1,19 @@
+
+#table-titles {
+  color: #fff;
+  font-size: 18px;
+}
+
+.each-table {
+  color: #fff;
+  font-size: 15px;
+  border-style: solid;  
+}
+
+.counter-button {
+  padding: 10px 10px;
+}
+
+#btn-add {
+  margin-left: 20px;
+}

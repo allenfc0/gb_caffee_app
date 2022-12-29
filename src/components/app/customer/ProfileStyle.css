@@ -1,0 +1,22 @@
+#background {
+    color: white;
+}
+
+#orders-link {
+    padding-top: 100px;
+}
+
+#black-btn {
+    color: #fff;
+    background-color: #000;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 2px;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.order-divider {
+    padding-bottom: 15%; 
+}

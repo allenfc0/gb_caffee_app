@@ -1,0 +1,6 @@
+#job-table tr th:not(:last-child) {
+  padding: 0 20px;
+}
+#job-table tr td:not(:last-child) {
+  padding: 20px;
+}

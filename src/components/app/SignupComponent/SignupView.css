@@ -1,0 +1,43 @@
+/* html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: black;
+    
+}
+
+.account-signup {
+    color: white;
+    background: #1f1f1f;
+    font-size: 35px;
+    font-weight: 100;
+}
+
+.flex-container {
+    width: 100px;
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-container {
+    width: 500px;
+    height: 570px;
+    padding: 50px 50px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
+    padding-top: 20px;
+    border-radius: 15px;
+    background-color: #1f1f1f;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.199);
+}
+
+
+
+ */
